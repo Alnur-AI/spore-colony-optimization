@@ -1,3 +1,6 @@
 # spore-colony-optimization
 
-![Image](1 Best Option.png)
+![Лучший вариант](1%20Best%20Option.png)
+![Лучший вариант](2%20Best%20Option.png)
+![Лучший вариант](3%20Best%20Option.png)
+![Лучший вариант](4%20Best%20Option.png)
